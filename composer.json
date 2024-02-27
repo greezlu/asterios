@@ -1,23 +1,21 @@
 {
-	"name": "mediawiki/core",
-	"description": "Free software wiki application developed by the Wikimedia Foundation and others",
+	"name": "greezlu/asterios",
+	"description": "Wikimedia server",
 	"type": "mediawiki-core",
 	"keywords": [
 		"mediawiki",
 		"wiki"
 	],
-	"homepage": "https://www.mediawiki.org/",
+	"homepage": "https://asterios.shapoval.dp.ua/",
 	"authors": [
 		{
-			"name": "MediaWiki Community",
-			"homepage": "https://www.mediawiki.org/wiki/Special:Version/Credits"
+			"name": "Serhii Shapoval",
+			"homepage": "https://asterios.shapoval.dp.ua/wiki/Special:Version/Credits"
 		}
 	],
 	"license": "GPL-2.0-or-later",
 	"support": {
-		"issues": "https://bugs.mediawiki.org/",
-		"irc": "irc://irc.libera.chat/mediawiki",
-		"wiki": "https://www.mediawiki.org/"
+		"issues": "https://github.com/greezlu/asterios/issues/"
 	},
 	"prefer-stable": true,
 	"require": {
